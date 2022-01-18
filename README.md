@@ -15,17 +15,17 @@ Investor W. Avy has requested a weather analysis of the island of Oahu to determ
 ![alt text](https://github.com/thehatch4815162342/surfs_up/blob/main/images/June%20Temperatures.png?raw=true) ![alt text](https://github.com/thehatch4815162342/surfs_up/blob/main/images/December%20Tempatures.png?raw=true)
  - Based on the images above, we can see some differences in temperatures between the two months:
       - On average, June has higher daily temperatures than December with a mean temperature of 74.94 versus December's 71.04.
-      - Between the two, December has the lowest recorded temperature at 56 degrees. 
-      - On the other hand, June has the highest recorded temperatures at      
+      - Between the two, December has the lowest recorded temperature at 56 degrees while June's lowest temperature is 64.
+      - On the other hand, June has the highest recorded temperature at 85 degrees while December's highest temperature is 83.
  
 ## Summary
-In total, 72,458 employees will be retiring in the upcoming "silver tsunami" and 7 employee positions will be impacted by it. With only 1,549 employees qualifying for the mentorship program, it doesn't seem like there is nearly enough mentors for the next generation of Pewlett Hackard employees. 
+In conclusion, the months of June and December don't seem to have dratiscally different weather temperatures, but in reality, the lowest and highest recorded temperatures for both months appear to be outliers. Since the average temperatures are above 70 degrees for both June and December, I would deduce that the surf and ice cream shop would be profitable year-round.
 
 ### Additional Analysis
-Here are addtional tables for any further analysis of the upcoming "silver tsunami".
+Here are addtional tables for any further analysis of Oahu's weather for the months of June and December. 
 
-#### Number of Retiring Employees per Department
- ![alt text](https://github.com/thehatch4815162342/Pewlett-Hackard-Analysis/blob/main/Images/retirement_dept.png?raw=true)
+#### Summary Statistics of June's Precipitation
+ https://github.com/thehatch4815162342/surfs_up/blob/main/images/June%20Precipitation.png?raw=true)
  
- #### Number of Retiring Employees per Salary Group
- ![alt text](https://github.com/thehatch4815162342/Pewlett-Hackard-Analysis/blob/main/Images/retirement_salaries.png?raw=true)
+ #### Summary Statistics of December's Precipitation
+ ![alt text](https://github.com/thehatch4815162342/surfs_up/blob/main/images/December%20Precipitation.png?raw=true)
