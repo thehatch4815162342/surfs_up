@@ -25,7 +25,7 @@ In conclusion, the months of June and December don't seem to have dratiscally di
 Here are addtional tables for any further analysis of Oahu's weather for the months of June and December. 
 
 #### Summary Statistics of June's Precipitation
- https://github.com/thehatch4815162342/surfs_up/blob/main/images/June%20Precipitation.png?raw=true)
+ ![alt text](https://github.com/thehatch4815162342/surfs_up/blob/main/images/June%20Precipitation.png?raw=true)
  
  #### Summary Statistics of December's Precipitation
  ![alt text](https://github.com/thehatch4815162342/surfs_up/blob/main/images/December%20Precipitation.png?raw=true)
